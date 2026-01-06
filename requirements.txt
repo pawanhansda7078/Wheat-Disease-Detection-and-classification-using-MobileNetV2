@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+Pillow
+tensorflow>=2.10,<2.21
+matplotlib
+numpy
+scikit-learn
+# (Add other packages as required by your code)
